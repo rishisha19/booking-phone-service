@@ -1,0 +1,65 @@
+[
+  {
+    "model": "Samsung Galaxy S9",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "2x Samsung Galaxy S8",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "Motorola Nexus 6",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+  "model": "Oneplus 9",
+  "technology": "",
+  "_2g_bands": "",
+  "_3g_bands": "",
+  "_4g_bands":  ""
+},
+  {
+    "model": "Apple iPhone 13",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "Apple iPhone 12",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "Apple iPhone 11",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "iPhone X",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  },
+  {
+    "model": "Nokia 3310",
+    "technology": "",
+    "_2g_bands": "",
+    "_3g_bands": "",
+    "_4g_bands":  ""
+  }
+]

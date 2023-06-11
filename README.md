@@ -33,6 +33,9 @@ Akka HTTP is recommended for the following use cases:
 - akka-typed-actor
 - maven 3.8
 
+
+### Integrations with FonoAPI: https://fonoapi.freshpixl.com/v1/
+
 ## Tests & Run
 
 
